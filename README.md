@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 Sometimes creates mini projects to learn new frameworks and tools.
-🛠️ Usually recreate/clone apps to explore and understand how to build and design larger software architectures.
-<br>🏢 Fullstack dev @ Knowit<br><br>
+🔭 Sometimes creates mini projects to learn new frameworks and tools.<br><br>
+🛠️ Usually recreate/clone apps to explore and understand how to build and design larger software architectures.<br><br>
+🏢 Fullstack dev @ Knowit<br><br>
 
 
 ## 🌐 Socials:
