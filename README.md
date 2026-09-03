@@ -1,8 +1,6 @@
 ### 👋 hej, i'm Erik
 
-stockholm-based fullstack developer who started out trying to make video games, got distracted by "wait, how does the backend for this actually work," and never really came back (or just lost patience in the job market). these days I build things at `Knowit Experience`, chase down integrations across systems that don't always want to talk to each other, and occasionally try run a sport club's entire tech stack for fun.
-
-i like it when messy things become tidy — data from five different places turning into one dashboard someone actually understands, or a ci pipeline that quietly does the boring parts so a dev doesn't have to think about them.
+stockholm-based fullstack developer who started out trying to make video games, got distracted by "wait, how does the backend for this actually work," and never really came back (or just lost patience in the job market). these days I build things at `Knowit Experience`, chase down integrations across systems that don't always want to talk to each other, and occasionally try run a sport club's entire tech stack for fun. i like it when messy things become tidy — data from five different places turning into one dashboard someone actually understands, or a ci pipeline that quietly does the boring parts so a dev doesn't have to think about them.
 
 ### 💼 experience
 
@@ -21,10 +19,6 @@ i like it when messy things become tidy — data from five different places turn
 ### 🌱 currently starting to learn
 
 `Rust` `Go` — still more "poking at it" than "building with it," and slowly getting into open source along the way without making it my personality.
-
-### 🧩 what I actually like working on
-
-systems that pull data together from a bunch of sources and make sense of it — the kind of project where half the job is talking to different people across different domains, figuring out what "good data" means to each of them, and turning that into one coherent whole. i'm also that person who'll spend an afternoon improving the dev experience on a project just so the next person (often future-me) has to babysit fewer tools to get real work done.
 
 ### 🏀 projects with actual users
 
