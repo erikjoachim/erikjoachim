@@ -6,7 +6,7 @@ stockholm-based fullstack developer who started out trying to make video games, 
 
 - 2025–now — Fullstack Developer @ Knowit Experience
 - 2023–2025 — Fullstack Developer @ Volkswagen Group Sweden
-- 2022–2023 — Junior Backend Developer / Trainee @ Nexer Tech Talent
+- 2022–2023 — Junior Backend Developer / Trainee @ Volkswagen Group Sweden (via Nexer Tech Talent)
 
 ### 🛋️ feel at home with
 
