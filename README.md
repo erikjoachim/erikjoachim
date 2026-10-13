@@ -22,7 +22,7 @@ stockholm-based fullstack developer who started out trying to make video games, 
 
 ### 🏀 projects with actual users
 
-[tumbagoif](https://github.com/tumbagoif/tumbagoif) — tools built for my basketball club, by me, as an excuse to try new stacks. the honest pitch: this is less "right tool for the job" and more "i could probably build this with X, so let's find out." 
+[tumbagoif](https://github.com/tumbagoif/) — tools built for my basketball club, by me, as an excuse to try new stacks. the honest pitch: this is less "right tool for the job" and more "i could probably build this with X, so let's find out." 
 
 whatever the stack, the one rule i don't break is keeping it easy to develop on.
 
